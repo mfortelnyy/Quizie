@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maksym/Documents/GitHub/Quizie/Quizie.csproj": {}
+    "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/Quizie.csproj": {}
   },
   "projects": {
-    "/Users/maksym/Documents/GitHub/Quizie/Quizie.csproj": {
+    "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/Quizie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maksym/Documents/GitHub/Quizie/Quizie.csproj",
+        "projectUniqueName": "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/Quizie.csproj",
         "projectName": "Quizie",
-        "projectPath": "/Users/maksym/Documents/GitHub/Quizie/Quizie.csproj",
+        "projectPath": "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/Quizie.csproj",
         "packagesPath": "/Users/maksym/.nuget/packages/",
-        "outputPath": "/Users/maksym/Documents/GitHub/Quizie/obj/",
+        "outputPath": "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maksym/.nuget/NuGet/NuGet.Config"

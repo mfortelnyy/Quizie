@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1wRx5mU9L7CYtnnsny42w1056kKkldANVkHqcEgm1l173qI7PuQMN5z8L2AvBqfxjTvtIisOzYDjHWQ2H4KKqg==",
+  "dgSpecHash": "CEKMp69gLPsjIuzFTufpW0znxY6Rv+Lj2w4/GH8bGNploSqTKt1yHWtFY8IjQ/7hCNihrbM4CSW9kapNHrYZMQ==",
   "success": true,
-  "projectFilePath": "/Users/maksym/Documents/GitHub/Quizie/Quizie.csproj",
+  "projectFilePath": "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/Quizie.csproj",
   "expectedPackageFiles": [
     "/Users/maksym/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
