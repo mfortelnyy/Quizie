@@ -1,0 +1,8 @@
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.csproj.AssemblyReference.cache
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.AssemblyInfoInputs.cache
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.AssemblyInfo.cs
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.csproj.CoreCompileInputs.cache
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.MvcApplicationPartsAssemblyInfo.cs
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.MvcApplicationPartsAssemblyInfo.cache
+/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/obj/Debug/net8.0/Quizie.sourcelink.json

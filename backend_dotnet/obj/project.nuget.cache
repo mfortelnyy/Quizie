@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEKMp69gLPsjIuzFTufpW0znxY6Rv+Lj2w4/GH8bGNploSqTKt1yHWtFY8IjQ/7hCNihrbM4CSW9kapNHrYZMQ==",
+  "dgSpecHash": "7uBtES2CjG0qeXxp076aWwH0g6PDuPpOFOC7yVn8c3ckbQmhZw+4xayl222VDrZIph27j+EyCgVnxIDN2uM+qg==",
   "success": true,
-  "projectFilePath": "/Users/maksym/Documents/GitHub/Quizie/backend-dotnet/Quizie.csproj",
+  "projectFilePath": "/Users/maksym/Documents/GitHub/Quizie/backend_dotnet/Quizie.csproj",
   "expectedPackageFiles": [
     "/Users/maksym/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.aspnetcore.openapi/8.0.2/microsoft.aspnetcore.openapi.8.0.2.nupkg.sha512",
@@ -11,10 +11,12 @@
     "/Users/maksym/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0/microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.0/microsoft.extensions.configuration.fileextensions.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.configuration.json/9.0.0/microsoft.extensions.configuration.json.9.0.0.nupkg.sha512",
+    "/Users/maksym/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0/microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0/microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.0/microsoft.extensions.fileproviders.physical.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.0/microsoft.extensions.filesystemglobbing.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.logging.abstractions/2.0.0/microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "/Users/maksym/.nuget/packages/microsoft.extensions.options/9.0.0/microsoft.extensions.options.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "/Users/maksym/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
